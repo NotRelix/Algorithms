@@ -1,2 +1,2 @@
 # Algorithms
-This contains algorithms I have learned throughout my coding journey
+This repository will be used to store Algorithms that I have learned
