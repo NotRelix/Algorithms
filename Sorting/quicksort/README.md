@@ -1,7 +1,7 @@
 # Quicksort Algorithm
 **Time Complexity (Worst Case): O(n^2)**
 
-**Quicksort Algorithm** - takes an unsorted array which then takes a single element in the array (the pivot), for instance the first element, there will then be 2 arrays, one for the left (less than the pivot), and one for the right (greater than the pivot). Once that's done, it will recurse that list by setting the pivot as the first element, and the cycle repeats.
+**Quicksort Algorithm** - takes an unsorted array which then takes a single element in the array (the pivot), for instance the first element, there will then be 2 arrays, one for the left (less than the pivot), and one for the right (greater than the pivot). Once that's done, it will recurse through that new list by setting the pivot as the first element, and the cycle repeats.
 
 #### How to pick a pivot point?
   - *(My Personal preferrence)* Always pick the first element 
