@@ -13,7 +13,7 @@ takes an unsorted array which then takes a single element in the array (the pivo
 
 ---
 
-![quicksort_illustration](https://user-images.githubusercontent.com/111989096/190842191-6cfaa570-7dcc-44b1-b4d5-887da35c9179.png)
+![Quicksort](https://user-images.githubusercontent.com/111989096/191301859-bc1a4378-4d04-4b2d-b48b-d5fbf1378c3d.png)
 ### Explanation:
   1. Takes 10 as the *pivot*, then partitions the given array around the pivot
   2. Continues doing so until it reaches the **Base Case** (if the array has less than 2 elements)
