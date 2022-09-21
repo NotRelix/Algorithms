@@ -1,3 +1,6 @@
+## Math
+* [Euclidean](/math/euclidean)
+
 ## Recursion
 * [Factorial](/recursion/factorial)
 
