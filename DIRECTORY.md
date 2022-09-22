@@ -1,3 +1,6 @@
+## Graph
+* [Breadth First Search](/graph/breadth_first_search)
+
 ## Math
 * [Euclidean](/math/euclidean)
 
