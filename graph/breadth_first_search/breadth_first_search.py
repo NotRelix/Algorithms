@@ -38,5 +38,5 @@ graph["thom"] = []
 graph["jonny"] = []
 
 # Test Cases:
-breadth_first_search("you")         # thom
-breadth_first_search("bob")         # None
+breadth_first_search("you")         # thom is a Mango Seller!
+breadth_first_search("bob")         # No Mango sellers found
