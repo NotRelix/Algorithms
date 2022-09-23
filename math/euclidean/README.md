@@ -5,6 +5,8 @@
 ### Description:
 This algorithm is one way in finding the *greatest common factor* (GCF) of two positive integers
 
+---
+
 ![image](https://user-images.githubusercontent.com/111989096/191981570-16a33724-b809-4ff2-8d55-2fda76e31285.png)
 
 ### Explanation:
