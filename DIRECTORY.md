@@ -1,5 +1,6 @@
 ## Graph
 * [Breadth First Search](/graph/breadth_first_search)
+* [Dijkstra's Algorithm](/graph/dijkstra)
 
 ## Math
 * [Euclidean](/math/euclidean)
