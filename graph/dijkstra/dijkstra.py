@@ -23,7 +23,7 @@ def dijkstra():
 
 # Find the lowest cost node
 def find_lowest_cost_node(costs):
-    lowest_cost = float("inf")
+    lowest_cost = infinity
     lowest_cost_node = None
 
     for node in costs:
