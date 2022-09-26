@@ -6,6 +6,8 @@ V = Vertices and E = Edges.
 ### Description:
 This algorithm uses a **queue** which is also called a FIFO data structure (First In, First Out). This algorithm uses graphs which first asks whether a path exists from node A to node B, if there is then find the shortest path. </br>
 
+The **shortest path** for this algorithm is the least amount of nodes needed to reach the end, if you want to look for the least amount of weights check out [Dijkstra's Algorithm](../dijkstra)
+
 One thing to note is that it doesn't search for nodes that are already searched.
 
 ---
