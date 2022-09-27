@@ -7,7 +7,7 @@ Similar to *breadth first search*, this algorithm finds the shortest path from s
 
 Note: this cannot handle negative weights, one algorithm that can handle though is the `Bellman-Ford Algorithm`
 
-![image](https://user-images.githubusercontent.com/111989096/192187181-2593f0fb-bbdf-4b20-8680-1aa05dc2aa09.png)
+![image](https://user-images.githubusercontent.com/111989096/192417505-174af56f-eabb-4db0-bbac-0fdb2eeea096.png)
 
 ### Explanation:
 Since `start -> b -> a -> fin` has the least amout of weight compared to any other combination, this is the shortest path.
